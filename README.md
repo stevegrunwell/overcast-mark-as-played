@@ -10,6 +10,7 @@ This is a browser extension (using [the WebExtension API](https://developer.mozi
 The extension is available through the following browser add-on marketplaces:
 
 * [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/overcast-mark-as-played/)
+* Google Chrome (currently under review)
 
 ### Manual installation
 
