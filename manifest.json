@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Overcast: Mark as Played",
+	"description": "Adds a \"Mark as Played\" button to podcast episodes on Overcast.fm.",
+	"version": "1.0.0",
+	"author": "Steve Grunwell",
+	"homepage_url": "https://github.com/stevegrunwell/overcast-mark-as-played",
+	"content_scripts": [
+		{
+			"matches": ["*://overcast.fm/*"],
+			"css": ["src/style.css"],
+			"js": ["src/script.js"],
+			"run_at": "document_end"
+		}
+	],
+	"permissions": [
+		"*://overcast.fm/*"
+	]
+}

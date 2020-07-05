@@ -1,0 +1,14 @@
+.overcast-mark-as-played-btn {
+	margin-left: 1em;
+	padding: 0;
+	font-family: inherit;
+	text-decoration: underline;
+	color: inherit;
+	background: none;
+	border: none;
+}
+
+.overcast-mark-as-played-btn:hover,
+.overcast-mark-as-played-btn:focus {
+	color: #222;
+}
