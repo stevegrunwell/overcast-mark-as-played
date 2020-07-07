@@ -13,6 +13,12 @@
 			"run_at": "document_end"
 		}
 	],
+	"icons": {
+		"16": "src/icon.svg",
+		"48": "src/icon-48.png",
+		"96": "src/icon.svg",
+		"128": "src/icon-128.png"
+	},
 	"permissions": [
 		"*://overcast.fm/*"
 	]
