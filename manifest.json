@@ -14,9 +14,9 @@
 		}
 	],
 	"icons": {
-		"16": "src/icon.svg",
+		"16": "src/icon-16.png",
 		"48": "src/icon-48.png",
-		"96": "src/icon.svg",
+		"96": "src/icon-96.png",
 		"128": "src/icon-128.png"
 	},
 	"permissions": [
