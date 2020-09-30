@@ -4,10 +4,14 @@ This is a browser extension (using [the WebExtension API](https://developer.mozi
 
 ![An episode of Serial with a "Mark as Played" button](assets/mark-as-played-screenshot.png)
 
+Please note that this extension is in no way affiliated with [Overcast](https://overcast.fm) or its [owner](https://marco.org/); I'm simply a fan of (and premium subscriber to) the platform.
 
 ## Installation
 
-(TBD, pending approval from browser marketplaces)
+The extension is available through the following browser add-on marketplaces:
+
+* [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/overcast-mark-as-played/)
+* [Google Chrome](https://chrome.google.com/webstore/detail/overcast-mark-as-played/gaeeolkmbpimllholhblmckdccmlbhnd)
 
 ### Manual installation
 
@@ -15,6 +19,12 @@ If you would like to run a pre-release version of the extension, you may do so b
 
 * [Mozilla Firefox](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)
 * [Google Chrome](https://developer.chrome.com/extensions/getstarted#manifest)
+
+
+## Credits
+
+* [Marco Arment](https://marco.org/) for building an excellent podcast app
+* [The Noun Project user Hrbon for the extension icon](https://thenounproject.com/search/?q=broadcast&i=2979109)
 
 
 ## License
