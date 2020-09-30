@@ -1,0 +1,27 @@
+{
+	"name": "overcast-mark-as-played",
+	"description": "Browser extension that adds 'Mark as Played' buttons on Overcast.fm",
+	"author": {
+		"name": "Steve Grunwell",
+		"url": "https://stevegrunwell.com"
+	},
+	"homepage": "https://github.com/stevegrunwell/overcast-mark-as-played",
+	"license": "MIT",
+	"private": "true",
+	"scripts": {
+		"build": "web-ext build --overwrite-dest"
+	},
+	"devDependencies": {
+		"web-ext": "^5.1.0"
+	},
+	"webExt": {
+		"ignoreFiles": [
+			".*",
+			"CHANGELOG.md",
+			"node_modules",
+			"package.json",
+			"package-lock.json",
+			"README.md"
+		]
+	}
+}
