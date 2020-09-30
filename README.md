@@ -11,7 +11,7 @@ Please note that this extension is in no way affiliated with [Overcast](https://
 The extension is available through the following browser add-on marketplaces:
 
 * [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/overcast-mark-as-played/)
-* Google Chrome (currently under review)
+* [Google Chrome](https://chrome.google.com/webstore/detail/overcast-mark-as-played/gaeeolkmbpimllholhblmckdccmlbhnd)
 
 ### Manual installation
 
